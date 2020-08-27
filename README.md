@@ -1,6 +1,6 @@
 # Exercice Markdown Becode
 
-Lors de mon parcourt chez **Becode**, un de mes premiers exercices était de créer une page GitHub.
+Lors de mon parcours chez **Becode**, un de mes premiers exercices était de créer une page GitHub.
 
 ## Pourquoi le markdown ?
 
