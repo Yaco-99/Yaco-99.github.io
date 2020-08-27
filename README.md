@@ -11,6 +11,6 @@ Le markdown est très utile pour modifier simplement le style et organiser des t
 ## Ma page GitHub
 
 Cette page présente :
-*une brève présentation du développeur que je suis
-*Tout les liens pour me contacter
+* une brève présentation du développeur que je suis
+* Tout les liens pour me contacter
 
